@@ -35,7 +35,7 @@ class HelloApiView(APIView):
 
 
     def put(self, request, pk=None):
-    """Handle updating an object"""
+        """Handle updating an object"""
 
         return Response({'method': 'PUT'})
 
