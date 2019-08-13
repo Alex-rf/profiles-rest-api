@@ -1,3 +1,4 @@
+
 #!c:\users\mk2019\courses\profiles-rest-api\env\scripts\python.exe
 from django.core import management
 
